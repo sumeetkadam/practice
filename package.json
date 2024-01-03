@@ -1,0 +1,15 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async_await.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon async_await.js"
+  },
+  "author": "sumeet",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2" 
+  }
+}
